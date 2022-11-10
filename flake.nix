@@ -34,7 +34,7 @@
     in flake // {
       packages.default = flake.packages."demo:exe:demo";
       hydraJobs = {
-        build.x86_64-linux = pkgs.x86_64-linux.demo;
+        build.x86_64-linux = pkgs.demo;
       };
     });
 }
