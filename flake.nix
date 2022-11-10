@@ -33,11 +33,8 @@
       };
     in flake // {
       packages.default = flake.packages."demo:exe:demo";
-      hydraJobs = {};
-      # hydraJobs = {
-      #   build.x86_64-linux = packages.x86_64-linux.equine-indexer;
-      # };
-      # hydraJobs.x86_64-linux = self.checks.x86_64-linux;
-
+      hydraJobs = {
+        build.x86_64-linux = packages.x86_64-linux.demo;
+      };
     });
 }
