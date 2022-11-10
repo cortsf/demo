@@ -1,0 +1,113 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/fcortesi/demo/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+0	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	o	array:install-plan
+0	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	array:install-plan.0.depends
+0	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	array:install-plan.1.depends
+0	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	array:install-plan.2.depends
+0	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	array:install-plan.3.depends
+0.1.0.0 -- YYYY-mm-dd	CHANGELOG.md	/^## 0.1.0.0 -- YYYY-mm-dd$/;"	s	chapter:Revision history for demo
+1	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	o	array:install-plan
+1	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	array:install-plan.0.depends
+2	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	o	array:install-plan
+2	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	array:install-plan.0.depends
+3	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	o	array:install-plan
+4	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	o	array:install-plan
+CURRENT_COMPONENT_ID	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define CURRENT_COMPONENT_ID /;"	d
+CURRENT_PACKAGE_VERSION	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define CURRENT_PACKAGE_VERSION /;"	d
+MIN_TOOL_VERSION_gcc	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_gcc(/;"	d
+MIN_TOOL_VERSION_ghc	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_ghc(/;"	d
+MIN_TOOL_VERSION_ghc_pkg	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_ghc_pkg(/;"	d
+MIN_TOOL_VERSION_haddock	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_haddock(/;"	d
+MIN_TOOL_VERSION_hpc	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_hpc(/;"	d
+MIN_TOOL_VERSION_hsc2hs	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_hsc2hs(/;"	d
+MIN_TOOL_VERSION_runghc	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_runghc(/;"	d
+MIN_TOOL_VERSION_strip	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_TOOL_VERSION_strip(/;"	d
+MIN_VERSION_base	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_VERSION_base(/;"	d
+MIN_VERSION_demo	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define MIN_VERSION_demo(/;"	d
+Main	app/Main.hs	/^module Main where$/;"	m
+Paths_demo	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^module Paths_demo ($/;"	m
+Revision history for demo	CHANGELOG.md	/^# Revision history for demo$/;"	c
+TOOL_VERSION_gcc	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define TOOL_VERSION_gcc /;"	d
+TOOL_VERSION_ghc	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define TOOL_VERSION_ghc /;"	d
+TOOL_VERSION_ghc_pkg	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define TOOL_VERSION_ghc_pkg /;"	d
+TOOL_VERSION_haddock	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define TOOL_VERSION_haddock /;"	d
+TOOL_VERSION_hpc	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define TOOL_VERSION_hpc /;"	d
+TOOL_VERSION_hsc2hs	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define TOOL_VERSION_hsc2hs /;"	d
+TOOL_VERSION_runghc	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define TOOL_VERSION_runghc /;"	d
+TOOL_VERSION_strip	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define TOOL_VERSION_strip /;"	d
+VERSION_base	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define VERSION_base /;"	d
+VERSION_demo	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/cabal_macros.h	/^#define VERSION_demo /;"	d
+arch	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s
+bin-file	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+bindir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^bindir     = "\/home\/fcortesi\/.cabal\/bin"$/;"	f
+bindir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath$/;"	f
+build-info	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+cabal-lib-version	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s
+cabal-version	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s
+catchIO	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^catchIO = Exception.catch$/;"	f
+compiler-id	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s
+component-name	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+datadir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^datadir    = "\/home\/fcortesi\/.cabal\/share\/x86_64-linux-ghc-9.2.4\/demo-0.1.0.0"$/;"	f
+depends	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	a	object:install-plan.0
+depends	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	a	object:install-plan.1
+depends	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	a	object:install-plan.2
+depends	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	a	object:install-plan.3
+depends	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	a	object:install-plan.4
+dist-dir	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+dynlibdir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^dynlibdir  = "\/home\/fcortesi\/.cabal\/lib\/x86_64-linux-ghc-9.2.4"$/;"	f
+exe-depends	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	a	object:install-plan.1
+flags	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	o	object:install-plan.1
+getBinDir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^getBinDir     = catchIO (getEnv "demo_bindir")     (\\_ -> return bindir)$/;"	f
+getBinDir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: IO FilePath$/;"	f
+getDataDir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^getDataDir    = catchIO (getEnv "demo_datadir")    (\\_ -> return datadir)$/;"	f
+getDataFileName	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^getDataFileName name = do$/;"	f
+getDynLibDir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^getDynLibDir  = catchIO (getEnv "demo_dynlibdir")  (\\_ -> return dynlibdir)$/;"	f
+getLibDir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^getLibDir     = catchIO (getEnv "demo_libdir")     (\\_ -> return libdir)$/;"	f
+getLibexecDir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^getLibexecDir = catchIO (getEnv "demo_libexecdir") (\\_ -> return libexecdir)$/;"	f
+getSysconfDir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^getSysconfDir = catchIO (getEnv "demo_sysconfdir") (\\_ -> return sysconfdir)$/;"	f
+id	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.0
+id	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+id	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.2
+id	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.3
+id	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.4
+install-plan	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	a
+isPathSeparator	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^isPathSeparator c = c == '\/'$/;"	f
+joinFileName	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^joinFileName ""  fname = fname$/;"	f
+joinFileName	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^joinFileName "." fname = fname$/;"	f
+joinFileName	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^joinFileName dir ""    = dir$/;"	f
+joinFileName	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^joinFileName dir fname$/;"	f
+libdir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^libdir     = "\/home\/fcortesi\/.cabal\/lib\/x86_64-linux-ghc-9.2.4\/demo-0.1.0.0-inplace-demo"$/;"	f
+libexecdir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^libexecdir = "\/home\/fcortesi\/.cabal\/libexec\/x86_64-linux-ghc-9.2.4\/demo-0.1.0.0"$/;"	f
+main	app/Main.hs	/^main = putStrLn "Hello, Haskell!"$/;"	f
+os	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s
+path	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1.pkg-src
+pathSeparator	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^pathSeparator = '\/'$/;"	f
+pkg-name	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.0
+pkg-name	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+pkg-name	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.2
+pkg-name	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.3
+pkg-name	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.4
+pkg-src	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	o	object:install-plan.1
+pkg-version	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.0
+pkg-version	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+pkg-version	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.2
+pkg-version	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.3
+pkg-version	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.4
+style	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+sysconfdir	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^sysconfdir = "\/home\/fcortesi\/.cabal\/etc"$/;"	f
+type	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.0
+type	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1
+type	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.1.pkg-src
+type	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.2
+type	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.3
+type	dist-newstyle/cache/plan.json	/^{"cabal-version":"3.8.1.0","cabal-lib-version":"3.8.1.0","compiler-id":"ghc-9.2.4","os":"linux",/;"	s	object:install-plan.4
+version	dist-newstyle/build/x86_64-linux/ghc-9.2.4/demo-0.1.0.0/x/demo/build/demo/autogen/Paths_demo.hs	/^version = Version [0,1,0,0] []$/;"	f
