@@ -34,7 +34,9 @@
     in flake // {
       packages.default = flake.packages."demo:exe:demo";
       hydraJobs = {
-        build.x86_64-linux = pkgs.demo;
+        whatever = pkgs.runCommand "formatting-check" {} ''
+          echo "hi!"
+          '';
       };
     });
 }
